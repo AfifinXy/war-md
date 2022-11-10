@@ -1,6 +1,6 @@
 
 module.exports = {
-  modul: {
+  module: {
 	axios: require("axios"), 
 	brainly: require("brainly-scraper"), 
 	boom: require('@hapi/boom'),
