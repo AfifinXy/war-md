@@ -52,13 +52,13 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	global.owner = ['Xxxxxxx'] #nomer mu tod
-global.premium = ['6288213049469'] #nomer mu
-global.ownername = 'Lukman XD'
-global.packname = 'Lukman XD??'
+	global.owner = ['628974040065'] #nomer mu tod
+global.premium = ['628974040065'] #nomer mu
+global.ownername = 'AfifinXy'
+global.packname = 'Fin XD??'
 global.author = 'WhatsApp 👿'
 global.sessionName = 'CyberExe'
-global.linkgrupss = ' https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y'
+global.linkgrupss = ' https://chat.whatsapp.com/BpHs8rKmSdC90g0sYJaU4y'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -69,7 +69,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Espere a que su solicitud sea procesada',
+    wait: 'Tunggu sebentar.....',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
@@ -86,4 +86,4 @@ BUAT BELI PC RANKIT BANH🗿
 
 # Thanks To
 - My Good
--Lukman Bot
+-Atmin
