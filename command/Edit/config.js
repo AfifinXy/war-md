@@ -1,5 +1,5 @@
 const { modul } = require('../Edit/module');
-const { chalk, fs, proces } = modul;
+const { chalk, fs, proces } = module;
 
 global.ownerNumber = ["628974040065@s.whatsapp.net"]
 global.namabotnya = ' XyX'
