@@ -79,10 +79,10 @@ global.limitawal = {
 ```
 ## Donate
 BUAT BELI PC RANKIT BANH🗿
-(NOMER) (6288292024190)
+(NOMER) (628974040065)
 
 # Official Group
-- - [Group 5](https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y)
+- - [Group 5](https://chat.whatsapp.com/BpHs8rKmSdC90g0sYJaU4y)
 
 # Thanks To
 - My Good
